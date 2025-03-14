@@ -57,3 +57,16 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 
+here are photos as well to showcase:
+
+![alt text](photos/image.png)
+
+![alt text](photos/image2.png)
+
+![alt text](photos/image3.png)
+
+![alt text](photos/image4.png)
+
+![alt text](photos/image5.png)
+
+![alt text](photos/image6.png)
